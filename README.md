@@ -66,6 +66,9 @@ The application allows users to add, view, search, update, and delete contacts, 
 ### File Structure
 
 📁 phonebook-cli-cpp
+
 ├── 📄 main.cpp         # Main source code (C++)
+
 ├── 📄 contacts.txt     # File that stores contact data (auto-generated)
+
 └── 📄 README.md        # Project documentation
